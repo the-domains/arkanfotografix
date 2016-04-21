@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Hi, welcome to my website-arkanfotografix. My name is Arkadiusz Niedzwiecki but I go by\_Erik and I'm a photographer.\_My background is in graphic design but I've been pursuing photography for many years. I enjoy creating photographs where I'm able to capture an individual's uniqueness. I started mainly with landscapes/nature but since having kids at home I directed most of my energy into impromptu kids shots. I've also been pursuing portraits and events. I found kids photography indoors the most challenging because of low light and slow shutter speeds but even then with natural light or flash and lots of patience I've been able to capture some remarkable shots.\_"
-datePublished: '2016-03-17T12:35:36.340Z'
-dateModified: '2016-03-17T04:30:41.909Z'
+datePublished: '2016-04-21T17:36:01.276Z'
+dateModified: '2016-04-21T17:35:43.272Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-16-hi-welcome-to-my-website-arkanfotografix-my-name-is-arkadi.md
@@ -24,6 +24,6 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9ab2b919-5b4b-4174-8112-5d8ca539c433.jpg)
 
-Hi, welcome to my website-arkanfotografix. My name is Arkadiusz Niedzwiecki but I go by Erik and I'm a photographer. My background is in graphic design but I've been pursuing photography for many years. I enjoy creating photographs where I'm able to capture an individual's uniqueness. I started mainly with landscapes/nature but since having kids at home I directed most of my energy into impromptu kids shots. I've also been pursuing portraits and events. I found kids photography indoors the most challenging because of low light and slow shutter speeds but even then with natural light or flash and lots of patience I've been able to capture some remarkable shots. 
+Hi, welcome to my website-arkanfotografix.com. My name is Arkadiusz Niedzwiecki but I go by Erik and I'm a photographer. My background is in graphic design but I've been actively pursuing photography for over fifteen years. I enjoy creating photographs where I'm able to capture an individual's uniqueness. I started mainly with landscapes/urban/nature photography but since having kids at home I directed most of my energy into impromptu kids shots. I've also been pursuing portraits and events. I found kids photography indoors the most challenging because of low light and slow shutter speeds but even then with natural light or flash and lots of patience I've been able to capture some remarkable shots. 
 
-I'm looking forward to capturing few moments of your life.
+I'm looking forward to capturing a few moments of your life.
