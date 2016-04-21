@@ -1,7 +1,7 @@
 name: ARKANfotografix
 favicon: null
-layout_spectrum: 0.06506
-typography_spectrum: 0.27536
+layout_spectrum: 0.94369
+typography_spectrum: 0.40641
 title: Portfolio
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#9a9a9a'
     - '#2f2f2f'
   brandStrength: 0.75
-  lightness: 0.25
+  lightness: 0.125
   saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
