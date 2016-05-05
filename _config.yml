@@ -1,6 +1,6 @@
 name: ARKANfotografix
 favicon: null
-layout_spectrum: 0.94369
+layout_spectrum: 0
 typography_spectrum: 0.40641
 title: null
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
     - '#000000'
-    - '#d2d2d2'
-    - '#9a9a9a'
-    - '#2f2f2f'
-  brandStrength: 0.75
-  lightness: 0.125
-  saturation: 0.5
-  rhythmicContrast: 0.75
+    - '#181617'
+    - '#222222'
+    - '#0c0c0c'
+    - '#271414'
+  brandStrength: 0.875
+  lightness: 1
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
