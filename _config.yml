@@ -1,6 +1,6 @@
 name: ARKANfotografix
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.99706
 typography_spectrum: 0.40641
 title: null
 cta:
@@ -22,8 +22,8 @@ color:
     - '#222222'
     - '#0c0c0c'
     - '#271414'
-  brandStrength: 0.875
-  lightness: 1
-  saturation: 0
-  rhythmicContrast: 0
+  brandStrength: 0.0625
+  lightness: 0.1875
+  saturation: 0.1875
+  rhythmicContrast: 0.75
 purpose: []
