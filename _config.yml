@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: About me.
-    id: 516b6dc9-06b7-47bd-a7ae-b162689d1d55
-    type: content
 favicon: null
 title: null
 purpose: []
